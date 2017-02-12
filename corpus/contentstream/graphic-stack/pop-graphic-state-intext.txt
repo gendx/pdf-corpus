@@ -1,0 +1,9 @@
+template = contentstream
+---
+BT
+0 700 Td
+/F1 100 Tf
+Q
+(Hello world !) Tj
+ET
+

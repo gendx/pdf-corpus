@@ -1,0 +1,18 @@
+template = objects
+---
+--- 1 0
+<< /Type /Catalog /Pages 2 0 R >>
+--- 2 0
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+--- 3 0
+<< /Type /Page /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 595 842] /Parent 2 0 R /Contents 5 0 R >>
+--- 4 0
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Name /F1 >>
+--- 5 0 stream
+0 0 1 rg
+0 0 1 RG
+BT
+0 700 Td
+/F1 1e2 Tf
+(Hello world !) Tj
+ET

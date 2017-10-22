@@ -38,3 +38,7 @@ For further details you can also dive into the [PDF specification](https://www.a
 Once compiled, these example files may not be fully compliant with the [specification](https://www.adobe.com/devnet/pdf/pdf_reference.html).
 In particular, they may be interpreted differently by different PDF readers.
 
+## License
+
+MIT
+
